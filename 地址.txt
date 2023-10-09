@@ -1,0 +1,6 @@
+https://sp.tcl.com/portal/workbench
+https://sp.tcl.com/mpm/home
+https://sp.tcl.com/portal-manage/homepage
+
+https://srm-uat-main.eads.tcl.com/
+账号/密码：lv2.li/idM@UAT#2022
